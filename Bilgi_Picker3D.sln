@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{3F174B75-263F-395F-297A-EF9D4C0C0F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{73EA8B2B-6897-8F90-BCF7-437087515CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{F6CF1861-12DF-B523-5031-F59D5C10C4AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.Modules.UnityMathematics", "Sirenix.OdinInspector.Modules.UnityMathematics.csproj", "{AF2EF787-CAC8-CBF2-70A2-721430F0082B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F174B75-263F-395F-297A-EF9D4C0C0F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F174B75-263F-395F-297A-EF9D4C0C0F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F174B75-263F-395F-297A-EF9D4C0C0F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F174B75-263F-395F-297A-EF9D4C0C0F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EA8B2B-6897-8F90-BCF7-437087515CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EA8B2B-6897-8F90-BCF7-437087515CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EA8B2B-6897-8F90-BCF7-437087515CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EA8B2B-6897-8F90-BCF7-437087515CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CF1861-12DF-B523-5031-F59D5C10C4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CF1861-12DF-B523-5031-F59D5C10C4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CF1861-12DF-B523-5031-F59D5C10C4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CF1861-12DF-B523-5031-F59D5C10C4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2EF787-CAC8-CBF2-70A2-721430F0082B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2EF787-CAC8-CBF2-70A2-721430F0082B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2EF787-CAC8-CBF2-70A2-721430F0082B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2EF787-CAC8-CBF2-70A2-721430F0082B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
